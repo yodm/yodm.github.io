@@ -9,3 +9,8 @@
   text-align: center;
   padding: 10px;
 }
+
+.container {
+  width: 80%; /* 设置容器的宽度 */
+  margin: 0 auto; /* 将左右外边距设置为auto */
+}
