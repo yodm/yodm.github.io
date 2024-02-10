@@ -1,0 +1,11 @@
+.image-with-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-text {
+  writing-mode: vertical-lr; /* 从左到右竖排文字 */
+  text-align: center;
+  padding: 10px;
+}
